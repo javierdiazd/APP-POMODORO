@@ -2,4 +2,4 @@
 Organizador de tareas
 
 
-https://github.com/NOMBRE_USUARIO/APP_POMODORO.git
+https://github.com/javierdiazd/APP_POMODORO.git
